@@ -1,0 +1,17 @@
+ ********* Caesar Cipher Encryption 1 ********* 
+PlainText: this is the secret message
+Encrypted: wklv lv wkh vhfuhw phvvdjh 
+Decrypted: this is the secret message 
+
+Enter a nonnegative integer that controls the shift places
+3
+ ********* Caesar Cipher Encryption 2 ********* 
+PlainText: this is the secret message
+Encrypted: wklv lv wkh vhfuhw phvvdjh 
+Decrypted: this is the secret message 
+
+ ********* Testing the KeySubstitution Class ********* 
+PlainText: wxyzblueacdfghijkmnopqrstv
+Encrypted: rstvxfpbwyzlueacdghijkmnoq 
+Decrypted: wxyzblueacdfghijkmnopqrstv 
+
