@@ -1,3 +1,10 @@
+/**
+ * Class for testing the encryption process
+ *
+ * @author Yves Semana Gisubizo
+ * @version 1.0
+ */
+
 import java.util.*;
 
 public class TestEncrypt {
