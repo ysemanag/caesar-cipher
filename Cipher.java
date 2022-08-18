@@ -1,3 +1,10 @@
+/**
+ * Abstract class Cipher that is inherited by the Caesar class
+ *
+ * @author Yves Semana Gisubizo
+ * @version 1.0
+ */
+
 import java.util.*;
 
 public abstract class Cipher {
