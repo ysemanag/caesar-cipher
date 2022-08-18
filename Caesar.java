@@ -1,3 +1,10 @@
+/**
+ * Caesar class that inherits the Cipher class
+ *
+ * @author Yves Semana Gisubizo
+ * @version 1.0
+ */
+
 public class Caesar extends Cipher {
   protected int shift;
   
